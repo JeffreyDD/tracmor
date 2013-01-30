@@ -1,0 +1,50 @@
+.header_menu {
+	background: none;
+	background-repeat: none;
+	background-color: white;
+}
+.current_tab_left {
+	background-image: none;
+	background-repeat: none;
+	background-color: white;
+}
+.current_tab_middle {
+	background-image: none;
+	background-repeat: none;
+	background-color: white;
+}
+.current_tab_right {
+	background-image: none;
+	background-repeat: none;
+	background-color: white;
+}
+.other_tab_left {
+	background-image: none;
+	background-repeat: none;
+	background-color: orange;
+}
+.other_tab_middle {
+	background-image: none;
+	background-repeat: none;
+	background-color: orange;
+}
+.other_tab_right {
+	background-image: none;
+	background-repeat: none;
+	background-color: orange;
+}
+.empty_tab_space {
+	background: none;
+	background-repeat: none;
+	background-color: white;
+}
+.current_tab_label {
+	color: orange;
+}
+.other_tab_label {
+	color: white;
+}
+.header_menu_sub_bar {
+	background-color: orange;
+	color: white;
+}

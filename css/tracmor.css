@@ -202,3 +202,15 @@ TH, TD, BODY { font: 10px verdana; text-align: left; }
 	border:1px solid #CCCCCC;
 	border-top:none;
 }
+.header_menu {
+	background: url(../images/main_header_bg.png);
+	background-repeat: repeat-x;
+}
+.header_menu_sub_bar {
+	height: 20px;
+	background-color: #acacac;
+}
+.header_menu_bottom {
+	height: 1px;
+	background-color: white;
+}

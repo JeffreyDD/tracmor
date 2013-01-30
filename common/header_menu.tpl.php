@@ -25,7 +25,7 @@
 	<table width="100%" cellpadding="0" cellspacing="0">
 		<tr>
 			<td>
-				<table cellpadding="0" cellspacing="0" width="100%" style="background:url(<?php echo __IMAGE_ASSETS__ . '/main_header_bg.png'; ?>); background-repeat: repeat-x;">
+				<table cellpadding="0" cellspacing="0" width="100%" style="" class="header_menu">
 					<tr style="height:64px">
 						<td>
 							<table cellpadding="0" cellspacing="0" style="width:100%;">
@@ -40,7 +40,7 @@
 						<td>
 							<table cellpadding="0" cellspacing="0" style="width:100%;">
 								<tr style="height:24px">
-									<td style="width:15px;background-image: url(<?php echo __IMAGE_ASSETS__ . '/emptyTabSpace.gif'; ?>); background-repeat:repeat-x;"><img src="<?php echo __IMAGE_ASSETS__ . '/empty.gif'; ?>" width="15" height="1"></td>
+									<td style="width:15px;" class="empty_tab_space" width="15" height="1"></td>
 									<?php
 									
 										if ($this->objRoleModuleArray) {
@@ -78,7 +78,7 @@
 							</table>
 						</td>
 					</tr>
-					<tr style="height:20px;background-color:#acacac">
+					<tr class="header_menu_sub_bar">
 						<td>
 							<table cellpadding="0" cellspacing="0">
 								<tr>
@@ -94,7 +94,7 @@
 							</table>
 						</td>
 					</tr>
-					<tr style="height:1px;background-color:#787878;">
+					<tr class="header_menu_bottom">
 						<td></td>
 					</tr>					
 					<!--<tr style="height:20px;background-color:#dddddd">

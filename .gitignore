@@ -1,3 +1,4 @@
-includes/configuration*
+includes/configuration.inc.php
+includes/configuration.inc.php.dist
 tmp/*
 images/*

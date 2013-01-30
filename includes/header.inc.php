@@ -7,6 +7,7 @@
 <?php } ?>
 		<!--<link rel="stylesheet" type="text/css" href="<?php _p(__CSS_ASSETS__); ?>/tracmor.css"></link>-->
 		<style type="text/css">@import url("<?php _p(__VIRTUAL_DIRECTORY__ . __CSS_ASSETS__); ?>/tracmor.css");</style>
+		<style type="text/css">@import url("<?php _p(__VIRTUAL_DIRECTORY__ . __CSS_ASSETS__); ?>/paylogic.css");</style>
 	</head>
 	<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
 	
