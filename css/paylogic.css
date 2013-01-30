@@ -48,3 +48,36 @@
 	background-color: orange;
 	color: white;
 }
+th, td, body {
+	font-family: arial;
+}
+.title {
+	font-family: arial;
+}
+.item_label {
+	font-family: arial;
+}
+.button {
+	font-family: arial;
+}
+.shortcut_menu_header_left {
+	background-image: none;
+	background-color: orange;
+}
+.shortcut_menu_header_middle {
+	background-image: none;
+	background-color: orange;
+}
+.shortcut_menu_header_right {
+	background-image: none;
+	background-color: orange;
+}
+.shortcut_menu_header_title {
+	color: white;
+}
+.dtg_header {
+	background-image: none;
+	background-repeat: none;
+	background-position: none;
+	background-color: orange !important;
+}

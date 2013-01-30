@@ -214,3 +214,19 @@ TH, TD, BODY { font: 10px verdana; text-align: left; }
 	height: 1px;
 	background-color: white;
 }
+.shortcut_menu_header_left {
+	width: 5px;
+	background-image: url(/tracmor/images/moduleTab_left.gif);
+}
+.shortcut_menu_header_middle {
+	background-image: url(/tracmor/images/moduleTab_middle.gif);
+}
+.shortcut_menu_header_right {
+	background-image: url(/tracmor/images/moduleTab_right.gif);
+}
+.shortcut_menu_header_title {
+	font-family:arial;
+	color:#555555;
+	font-size:12px;
+	font-weight:bold;
+}
