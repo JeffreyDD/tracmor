@@ -41,6 +41,8 @@
 		///////////////////////////
 		require(__QCODO_CORE__ . '/qcodo.inc.php');
 
+		// Disable Error Reporting since this breaks a lot of Tracmor's functionality
+		error_reporting(E_ERROR|E_PARSE);
 
 		////////////////////////////////////
 		// Initialize the QApplication Class

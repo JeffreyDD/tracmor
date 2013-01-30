@@ -78,7 +78,7 @@
 		<td align="center">
 			<table align="center" width="300">
 				<tr>
-					<td style="text-align:center;"><img src="images/tracmor_logo.png"></td>
+					<td style="text-align:center;"></td>
 				</tr>
 				<tr>
 					<td>
